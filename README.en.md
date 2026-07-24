@@ -43,10 +43,10 @@ One article (a painter interview) × three harvested styles, 4 illustrations eac
 Reference `assets/p718126702.jpg` (newspaper-front-page pen-and-wash caricature) → archive → 4 key scenes:
 
 <table><tr>
-<td><img src="examples/butterfly-boy-fig1.png" alt="the glowing dog"></td>
-<td><img src="examples/butterfly-boy-fig2.png" alt="twenty square meters"></td>
-<td><img src="examples/butterfly-boy-fig3.png" alt="butterfly boy"></td>
-<td><img src="examples/butterfly-boy-fig4.png" alt="back to life"></td>
+<td><img src="examples/butterfly-boy-fig1.jpg" alt="the glowing dog"></td>
+<td><img src="examples/butterfly-boy-fig2.jpg" alt="twenty square meters"></td>
+<td><img src="examples/butterfly-boy-fig3.jpg" alt="butterfly boy"></td>
+<td><img src="examples/butterfly-boy-fig4.jpg" alt="back to life"></td>
 </tr><tr>
 <td align="center"><sub>the glowing dog</sub></td>
 <td align="center"><sub>20 m² in Songzhuang</sub></td>
@@ -59,10 +59,10 @@ Reference `assets/p718126702.jpg` (newspaper-front-page pen-and-wash caricature)
 Reference `assets/example-ligne-claire.png` (Franco-Belgian clear line: closed contours + flat fills + two-tone lighting) → same article, re-illustrated:
 
 <table><tr>
-<td><img src="examples/butterfly-boy-moebius-fig1.png" alt="night studio"></td>
-<td><img src="examples/butterfly-boy-moebius-fig2.png" alt="tiny rented room"></td>
-<td><img src="examples/butterfly-boy-moebius-fig3.png" alt="rooftop butterfly"></td>
-<td><img src="examples/butterfly-boy-moebius-fig4.png" alt="teaching kids"></td>
+<td><img src="examples/butterfly-boy-moebius-fig1.jpg" alt="night studio"></td>
+<td><img src="examples/butterfly-boy-moebius-fig2.jpg" alt="tiny rented room"></td>
+<td><img src="examples/butterfly-boy-moebius-fig3.jpg" alt="rooftop butterfly"></td>
+<td><img src="examples/butterfly-boy-moebius-fig4.jpg" alt="teaching kids"></td>
 </tr><tr>
 <td align="center"><sub>night studio · desk lamp</sub></td>
 <td align="center"><sub>20 m² room · heater</sub></td>
@@ -75,10 +75,10 @@ Reference `assets/example-ligne-claire.png` (Franco-Belgian clear line: closed c
 References `assets/ref3-a/b/c.png` (a 3-image series by one artist; cross-image invariants only) → single-subject flat-background style, scenes translated into symbolic subjects:
 
 <table><tr>
-<td><img src="examples/butterfly-boy-crayon-fig1.png" alt="good dog"></td>
-<td><img src="examples/butterfly-boy-crayon-fig2.png" alt="my tiny studio"></td>
-<td><img src="examples/butterfly-boy-crayon-fig3.png" alt="butterfly boy"></td>
-<td><img src="examples/butterfly-boy-crayon-fig4.png" alt="draw with me"></td>
+<td><img src="examples/butterfly-boy-crayon-fig1.jpg" alt="good dog"></td>
+<td><img src="examples/butterfly-boy-crayon-fig2.jpg" alt="my tiny studio"></td>
+<td><img src="examples/butterfly-boy-crayon-fig3.jpg" alt="butterfly boy"></td>
+<td><img src="examples/butterfly-boy-crayon-fig4.jpg" alt="draw with me"></td>
 </tr><tr>
 <td align="center"><sub>good dog</sub></td>
 <td align="center"><sub>my tiny studio</sub></td>

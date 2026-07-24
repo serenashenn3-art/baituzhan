@@ -43,10 +43,10 @@ Claude Code / Codex / Kimi / Hermes —— 任何支持 Skill 目录的 AI Agent
 参考图 `assets/p718126702.jpg`（报刊头版式钢笔淡彩人物群像）→ 斩出档案 → 提取 4 个关键场景逐张生成：
 
 <table><tr>
-<td><img src="examples/butterfly-boy-fig1.png" alt="发光的狗"></td>
-<td><img src="examples/butterfly-boy-fig2.png" alt="坐井观山"></td>
-<td><img src="examples/butterfly-boy-fig3.png" alt="蝴蝶少年"></td>
-<td><img src="examples/butterfly-boy-fig4.png" alt="下凡"></td>
+<td><img src="examples/butterfly-boy-fig1.jpg" alt="发光的狗"></td>
+<td><img src="examples/butterfly-boy-fig2.jpg" alt="坐井观山"></td>
+<td><img src="examples/butterfly-boy-fig3.jpg" alt="蝴蝶少年"></td>
+<td><img src="examples/butterfly-boy-fig4.jpg" alt="下凡"></td>
 </tr><tr>
 <td align="center"><sub>发光的狗</sub></td>
 <td align="center"><sub>坐井观山</sub></td>
@@ -61,10 +61,10 @@ Claude Code / Codex / Kimi / Hermes —— 任何支持 Skill 目录的 AI Agent
 参考图 `assets/example-ligne-claire.png`（法比漫画明线派：闭合细线 + 平涂 + 双色调打光）→ 同一篇文章重配 4 张：
 
 <table><tr>
-<td><img src="examples/butterfly-boy-moebius-fig1.png" alt="深夜画室"></td>
-<td><img src="examples/butterfly-boy-moebius-fig2.png" alt="宋庄二十平米"></td>
-<td><img src="examples/butterfly-boy-moebius-fig3.png" alt="天台的蝴蝶"></td>
-<td><img src="examples/butterfly-boy-moebius-fig4.png" alt="教孩子画画"></td>
+<td><img src="examples/butterfly-boy-moebius-fig1.jpg" alt="深夜画室"></td>
+<td><img src="examples/butterfly-boy-moebius-fig2.jpg" alt="宋庄二十平米"></td>
+<td><img src="examples/butterfly-boy-moebius-fig3.jpg" alt="天台的蝴蝶"></td>
+<td><img src="examples/butterfly-boy-moebius-fig4.jpg" alt="教孩子画画"></td>
 </tr><tr>
 <td align="center"><sub>发光的狗 · 台灯</sub></td>
 <td align="center"><sub>宋庄二十平米 · 电暖器</sub></td>
@@ -79,10 +79,10 @@ Claude Code / Codex / Kimi / Hermes —— 任何支持 Skill 目录的 AI Agent
 参考图 `assets/ref3-a/b/c.png`（同作者三幅：桃子与虫 / 三只鸽子 / 三条鱼，跨图互证取不变量）→ 单主体纯色背景风格，叙事场景按档案转译为象征物：
 
 <table><tr>
-<td><img src="examples/butterfly-boy-crayon-fig1.png" alt="good dog"></td>
-<td><img src="examples/butterfly-boy-crayon-fig2.png" alt="my tiny studio"></td>
-<td><img src="examples/butterfly-boy-crayon-fig3.png" alt="butterfly boy"></td>
-<td><img src="examples/butterfly-boy-crayon-fig4.png" alt="draw with me"></td>
+<td><img src="examples/butterfly-boy-crayon-fig1.jpg" alt="good dog"></td>
+<td><img src="examples/butterfly-boy-crayon-fig2.jpg" alt="my tiny studio"></td>
+<td><img src="examples/butterfly-boy-crayon-fig3.jpg" alt="butterfly boy"></td>
+<td><img src="examples/butterfly-boy-crayon-fig4.jpg" alt="draw with me"></td>
 </tr><tr>
 <td align="center"><sub>good dog</sub></td>
 <td align="center"><sub>my tiny studio</sub></td>
