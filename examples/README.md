@@ -4,9 +4,9 @@
 
 | 案例 | 风格档案 | 参考图 | 成品 | 提示词清单 |
 |------|----------|--------|------|-----------|
-| 报刊淡彩 | `styles/editorial-ink-wash.md` | `assets/p718126702.jpg` | `butterfly-boy-fig1~4.png` | [butterfly-boy-prompts.md](butterfly-boy-prompts.md) |
-| 明线派 | `styles/ligne-claire.md` | `assets/example-ligne-claire.png` | `butterfly-boy-moebius-fig1~4.png` | [butterfly-boy-moebius-prompts.md](butterfly-boy-moebius-prompts.md) |
-| 稚拙蜡笔 | `styles/naive-crayon.md` | `assets/ref3-a/b/c.png` | `butterfly-boy-crayon-fig1~4.png` | [butterfly-boy-crayon-prompts.md](butterfly-boy-crayon-prompts.md) |
+| 报刊淡彩 | `styles/editorial-ink-wash.md` | `assets/p718126702.jpg` | `butterfly-boy-fig1~4.jpg` | [butterfly-boy-prompts.md](butterfly-boy-prompts.md) |
+| 明线派 | `styles/ligne-claire.md` | `assets/example-ligne-claire.png` | `butterfly-boy-moebius-fig1~4.jpg` | [butterfly-boy-moebius-prompts.md](butterfly-boy-moebius-prompts.md) |
+| 稚拙蜡笔 | `styles/naive-crayon.md` | `assets/ref3-a/b/c.png` | `butterfly-boy-crayon-fig1~4.jpg` | [butterfly-boy-crayon-prompts.md](butterfly-boy-crayon-prompts.md) |
 
 > 每套图共用同一锚定段、同一画幅，翻阅时风格连贯。
 > 新案例按 `<任务名>-figN.png` + `<任务名>-prompts.md` 组织；完整锚定段可由
